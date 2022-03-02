@@ -6,14 +6,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-       /* System.out.println("MENU");
-        System.out.println("Veuillez choir une option :");
-        System.out.println("1 Ajouter une tache ");
-        System.out.println("2 Supprimer une tache ");
-        System.out.println("3 Modifier une tache");
-        System.out.println("0 Quit");
 
-        */
         java.util.Scanner keybd = new java.util.Scanner(System.in);
         Tache list = new Tache();
 
